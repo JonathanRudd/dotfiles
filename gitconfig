@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = jonathanrudd3@gmail.com
+	name = Jonathan Rudd
